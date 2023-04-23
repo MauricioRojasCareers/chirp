@@ -7,6 +7,7 @@ const Navbar = () => {
           className="bg-transparent outline-none grow"
         ></input>
         <button>Post</button>
+        <p>Small change</p>
       </div>
     </div>
   );
