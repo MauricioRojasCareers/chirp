@@ -1,4 +1,3 @@
-import { useState } from "react";
 import ListingCard from "./components/ListingCard";
 import Navbar from "./components/Navbar";
 
