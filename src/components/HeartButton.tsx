@@ -8,7 +8,7 @@ export const HeartButton = () => {
   return (
     <div className="flex items-center ">
       <button onClick={() => setLike((prevState) => !prevState)}>
-        <AiFillHeart className={like ? "fill-rose-500" : ""} size={24} />
+        <AiFillHeart className={like ? "fill-rose-500" : ""} size={25} />
       </button>
     </div>
   );
